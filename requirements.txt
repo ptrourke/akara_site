@@ -1,0 +1,22 @@
+html5lib
+httplib2
+python-dateutil
+simplejson
+feedparser
+xlrd
+#--extra-index-url https://pypi.zepheira.com/releases/index/
+
+#zen==0.12.5
+#git+https://git@github.com/ptrourke/zenpub#egg
+git+file:///home/ptrourke/workspace/zenpub#egg
+
+#freemix-akara==4.0.0
+#git+https://git@github.com/ptrourke/freemix-akara@4.0.0#egg
+git+file:///home/ptrourke/workspace/freemix-akara@4.0.0#egg
+
+#Amara==2.0.0a6
+#git+https://git@github.com/ptrourke/amara@2.0.0a6#egg
+git+file:///home/ptrourke/workspace/amara@2.0.0a6#egg
+#Akara==2.0.0a4
+#git+https://git@github.com/ptrourke/akara#egg
+git+file:///home/ptrourke/workspace/akara#egg
